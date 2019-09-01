@@ -1,0 +1,1 @@
+Nuestra receta inicia con granos de **café colombiano 100%,** tostado para producir nuestro **café frío**. Lo molemos al tamaño perfecto para que durante las **20 horas de preparación** tengamos el mejor concentrado. Una bebida **fuerte, desafiante y flexible** para que prepares café en casa como más te guste.
