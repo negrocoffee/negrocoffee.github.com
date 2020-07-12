@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Privacidads on Negro Coffee</title>
+    <link>http://negro.coffee/privacidad/</link>
+    <description>Recent content in Privacidads on Negro Coffee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-co</language>
+    <lastBuildDate>Wed, 30 Oct 2019 09:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://negro.coffee/privacidad/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Políticas de Tratamiento de Datos</title>
+      <link>http://negro.coffee/privacidad/politicas-de-datos/</link>
+      <pubDate>Wed, 30 Oct 2019 09:00:00 +0000</pubDate>
+      
+      <guid>http://negro.coffee/privacidad/politicas-de-datos/</guid>
+      <description>Políticas de Tratamiento de la Información de Negro SAS En cumplimiento de la Ley 1581 de 2012 y del decreto reglamentario 1377 de 2013, Negro S.A.S., en calidad de responsable del tratamiento de los datos personales de los titulares que reposan en nuestras bases de datos, hemos adoptado estas Políticas de Tratamiento de la Información para garantizar que la recolección y tratamiento que se hace de los datos personales se ajuste las disposiciones legales vigentes.</description>
+    </item>
+    
+    <item>
+      <title>Aviso de Privacidad</title>
+      <link>http://negro.coffee/privacidad/privacidad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://negro.coffee/privacidad/privacidad/</guid>
+      <description>Aviso de Privacidad. En cumplimiento de la Ley 1581 de 2012 y el Decreto Reglamentario 1377 de 2013, le informamos que los datos personales que usted nos ha entregado serán almacenados, usados, circulados, actualizados y en general tratados con la siguiente finalidad: (i) Envío de información relacionada con el objeto social de Negro S.A.S. (ii) Contacto por medio telefónico o correo electrónico para ofrecer la prestación de servicios. (iii) Facturación.</description>
+    </item>
+    
+  </channel>
+</rss>

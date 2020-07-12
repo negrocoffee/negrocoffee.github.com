@@ -1,0 +1,14 @@
+baseURL = "https://www.negro.coffee/"
+languageCode = "es"
+title = "NEGRO - Compañía de Café"
+
+[params]
+  sitecolor = "#012e40"
+  author = "Enrique Cabra"
+  description = "Negro - Compañía de Café - Cold Brew en Bogotá, Colombia. Domicilio de Café Frío. Recetas de Cold Brew. Todos sobre Café Colombiano."
+  tw = "https://twitter.com/negroelcafe"
+  fb = "https://facebook.com/negroelcafe"
+  ig = "https://instagram.com/negro.coffee"
+  wa = "https://wa.me/573196540318/?text=Hola%20quiero%20pedir%20una%20botella%20de%20COLD%20BREW%21%21"
+  og-img= "https://res.cloudinary.com/negrocoffee/image/upload/v1593127854/photshoot/050-16x9-01_mtkbif.jpg"
+  tw-img= "https://res.cloudinary.com/negrocoffee/image/upload/v1593127854/photshoot/050-16x9-01_mtkbif.jpg"

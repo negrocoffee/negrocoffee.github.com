@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>almacenamiento on Negro Coffee</title>
+    <link>http://negro.coffee/tags/almacenamiento/</link>
+    <description>Recent content in almacenamiento on Negro Coffee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-co</language>
+    
+	<atom:link href="http://negro.coffee/tags/almacenamiento/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Compra Café Fresco</title>
+      <link>http://negro.coffee/blog/10-aspectos-para-tomar-mejor-cafe/compra-cafe-fresco/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://negro.coffee/blog/10-aspectos-para-tomar-mejor-cafe/compra-cafe-fresco/</guid>
+      <description>El grano de café tostado es producto de una serie de procesos que se realizan desde que se siembra el árbol de café. Estos procesos transforman los nutrientes en frutos. Estos frutos son recolectados, transformados en grano durante el proceso de beneficio, luego se trilla el pergamino y se obtiene el grano verde, que es tostado para luego ser molido y preparar una bebida de café.
+   Por lo tanto, el tiempo de estos procesos resulta crucial para obtener la mejor bebida posible.</description>
+    </item>
+    
+  </channel>
+</rss>

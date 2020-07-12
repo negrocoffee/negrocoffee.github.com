@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>café independiente on Negro Coffee</title>
+    <link>http://negro.coffee/tags/caf%C3%A9-independiente/</link>
+    <description>Recent content in café independiente on Negro Coffee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-co</language>
+    
+	<atom:link href="http://negro.coffee/tags/caf%C3%A9-independiente/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Compra Café Local e Independiente</title>
+      <link>http://negro.coffee/blog/10-aspectos-para-tomar-mejor-cafe/compra-local-e-independiente/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://negro.coffee/blog/10-aspectos-para-tomar-mejor-cafe/compra-local-e-independiente/</guid>
+      <description>Comprar café en un negocio que sea local e independiente puede traer muchos beneficios. Vamos a profundizar en las ventajas de comprar en este tipo de negocios. Empecemos con especificar ¿qué es una tienda de café local e independiente?
+    Es un negocio que compra café verde colombiano directamente del caficultor, lo procesa localmente y lo vende a una comunidad en un rango geográfico pequeño. Esto la convierte en una tienda de café local.</description>
+    </item>
+    
+  </channel>
+</rss>

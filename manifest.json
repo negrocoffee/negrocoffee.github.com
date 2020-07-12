@@ -1,0 +1,19 @@
+{
+    "name": "Negro - Compañía de Café",
+    "short_name": "NEGRO COFFEE",
+    "icons": [
+        {
+            "src": "/android-chrome-logo-negrocc-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-logo-negrocc-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#012e40",
+    "background_color": "#012e40",
+    "display": "standalone"
+}
