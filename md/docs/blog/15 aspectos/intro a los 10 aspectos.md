@@ -1,0 +1,1 @@
+Los **10 aspectos para tomar mejor café** son una serie de textos que buscan ayudar en la experiencia de preparar y tomar café en la casa de cada todos. Son **10 recomendaciones** que podemos aplicar de forma sencilla en la casa sin tener que invertir mucho dinero o dedicarle mucho tiempo al café. Unos consejos para que todos tomemos el café que más nos guste y lo disfrutemos. 
