@@ -3149,6 +3149,9 @@ ul {
 .tam-titulo-receta {
     font-size: calc(70px + (80 - 70) * (100vw - 600px) / (1600 - 600));
 }
+.tam-titulo-vocabulario {
+    font-size: calc(50px + (90 - 50) * (100vw - 600px) / (1600 - 600));
+}
 .tam-texto-16 {
     font-size: 20vh;
 }
@@ -3185,9 +3188,19 @@ a.enlace-texto {
 .essones-text {
     font-family: essonnes-text, serif;
 }
+.essones-headline {
+    font-family: essonnes-headline, serif;
+}
 .stratos {
     font-family: stratos, serif;
 }
+.orpheuspro {
+    font-family: orpheuspro, serif;
+}
+.bodoni-urw {
+    font-family: bodoni-urw, serif;
+}
+
 /* COLUMNAS */
 .no-rompa {
     -webkit-column-break-inside: avoid;
@@ -3797,19 +3810,66 @@ html.coldbrew-bg {
 
 .grilla-vocabulario {
     display: grid;
-    grid-template-columns: 10vw 80vw 10vw;
-    grid-template-rows: 5vh 10vh 70vh 10vh 5vh;
+    grid-template-columns: 10vw 50vw 30vw 10vw;
+    grid-template-rows: 5vh max-content max-content auto 5vh;
     grid-gap: 1rem;
     height: 100vh;
 }
 .titulo-vocabulario {
     grid-column: 2 / 3;
-    grid-row: 2 / 4;
+    grid-row: 3 / 4;
     align-self: start;
     z-index: 1;
 }
-.img-vocabulario {
+.texto-intro-vocabulario {
     grid-column: 2 / 3;
-    grid-row: 3 / 4;
-    z-index: 0;
+    grid-row: 4 / 5;
+}
+.indice-vocabulario {
+    grid-column: 3 / 4;
+    grid-row: 2 / 5;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(auto, 1fr);
+    grid-gap: 0px;
+}
+.indice-vocabulario > li {
+    transition-property: background-color;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    padding: 2rem;
+}
+.indice-vocabulario > li:hover {
+    background-color:black;
+}
+.indice-vocabulario > li > a {
+    color: black;
+    text-decoration: underline;
+    line-height: 3rem;
+}
+.indice-vocabulario > li > a:hover {
+    color: white;
+    transition-property: color;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}
+@media (max-width: 1100px) {
+    .grilla-vocabulario {
+        grid-template-columns: 5vw 80vw 5vw;
+        grid-template-rows: 30vh max-content max-content 100vh;
+    }
+    .titulo-vocabulario {
+        grid-column: 2 / 3;
+        grid-row: 2 / 3;
+    }
+    .texto-intro-vocabulario {
+        grid-column: 2 / 3;
+        grid-row: 3 / 4;
+    }
+    .indice-vocabulario {
+        grid-column: 2 / 3;
+        grid-row: 4 / 5;
+    }
 }
