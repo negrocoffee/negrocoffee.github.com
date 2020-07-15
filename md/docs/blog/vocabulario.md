@@ -11,8 +11,14 @@ Para comunicarnos mejor, para **encontrar relaciones** y con el fin de desarroll
         - ### Agrio
             - [[Sabor Básico]]
             - [Sabor básico](#sabor-basico) presente en una bebida. Se produce en los primeros momentos de [extracción](#extraccion) y con temperaturas altas. 
+            
         - ### ajuste de molienda
             - Posición del selector o collar, que estipula la separación entre las cuchillas del molino.
+            
+            ### Apisonador
+            
+            Aparato con el que se compacta la [molienda](#molienda) durante la [preparación](#preparacion) de un [espresso](#espresso). Usualmente tienen una superficie plana y bordes rectos, sin embargo también pueden tener bordes biselados y una superficie convexa. Nosotros recomendamos los apisonadores planos y con bordes rectos.
+            
         - ### apisonar
             - Acción de compactar la molienda al interior de una [castilla](#canastilla) utilizando un [apisonador](#apisonador). Es una de las acciones para preparar [espresso](#espresso), es muy importante, porque afecta la bebida final que se obtiene. En años recientes la [industria del café](#industria-del-cafe) ha desarrollado máquinas apisonadoras y [máquinas de espresso](#maquina-de-espresso) que sin ser [superautomáticas](#superautomatica) también apisonan. Es una de las acciones que más afecta la salud física de los [baristas](#barista) por la repetición contínua de la acción y en muchos casos por la mala ergonomía de la estación de trabajo. 
     - ## B
@@ -22,19 +28,33 @@ Para comunicarnos mejor, para **encontrar relaciones** y con el fin de desarroll
     - ## C
         - ### café verde
             - 
+            
         - [[Ciencia Sensorial]]
+        
         - ### muelas
             - Discos de los molinos que muelen el grano de café tostado.
+            
         - ### canalización
             - Ocurre cuando la mayoría de la cantidad del agua durante la preparación de la [[café/preparación/bebida de café]] pasa por un área localizada de la [[café/preparación/cama de café]].
             - una irregularidad crítica durante la extracción, donde una gran cantidad del [[café/preparación/agua de preparación]] atraviesa un área localizada.
+            
+        - ### Canastilla
+        
+            - Donde se deposita la [molienda](#molienda) de café para ser comprimida o [apisonada](#apisonar). Es independiente del [portafiltros](#portafiltro) y es el único [filtro](#filtro) que tiene la preparación de [espresso](#espresso). Hay de fondo sencillo y doble, en una [tienda de especialidad](#tienda-de-especialidad) se utilizan canastillas de fondo sencillo y tamaño doble, mientras que en [máquinas de espresso](#maquina-de-espresso) para el hogar se utilizan canastillas sencillas y dobles y usualmente de fondo doble. 
+        
         - ### cápsulas
             - sistema de cápsulas tipo K-cups o Nespresso, que utilizan envase cerrado, para el café molido, para una preparar una sola taza. 
+            
         - ### canastilla
+        
         - {{embed: ((C3gAJ8eA8))}}
+        
         - ### compuesto
+        
         - ### concentración
+        
         - ### cosecha
+        
         - ### catación
     - ## D
         - ### [[Débil]]
