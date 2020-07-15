@@ -14,7 +14,7 @@ Para comunicarnos mejor, para **encontrar relaciones** y con el fin de desarroll
         - ### ajuste de molienda
             - Posición del selector o collar, que estipula la separación entre las cuchillas del molino.
         - ### apisonar
-            - acción de compactar la molienda al interior de una castilla utilizando un apisonador. 
+            - Acción de compactar la molienda al interior de una [castilla](#canastilla) utilizando un [apisonador](#apisonador). Es una de las acciones para preparar [espresso](#espresso), es muy importante, porque afecta la bebida final que se obtiene. En años recientes la [industria del café](#industria-del-cafe) ha desarrollado máquinas apisonadoras y [máquinas de espresso](#maquina-de-espresso) que sin ser [superautomáticas](#superautomatica) también apisonan. Es una de las acciones que más afecta la salud física de los [baristas](#barista) por la repetición contínua de la acción y en muchos casos por la mala ergonomía de la estación de trabajo. 
     - ## B
         - ### beneficio
         - ### BTC - bean to cup
@@ -79,10 +79,10 @@ Para comunicarnos mejor, para **encontrar relaciones** y con el fin de desarroll
         - ### ICE - Intercontinental exchange
             - https://www.theice.com/products/15/Coffee-C-Futures
         - [[Inmersión]]
-            
+          
             - Preparación de café 
         - [[Intensidad]]
-            
+          
             - La impresión sensorial de potencia o magnitud percibida de un sabor.
         - ### ion
             - 
@@ -156,11 +156,11 @@ Para comunicarnos mejor, para **encontrar relaciones** y con el fin de desarroll
             - El método de agitación utilizado en la "catación" para asegurar que toda la N7sWZiPT5 se sumerja bajo la superficie del "lodo de café" del [[café/preparación/agua de preparación]] y la molienda.
     - ## S
         - ### Sabor Básico
-            
+          
             - Son cinco los sabores básico en la literatura sensorial. [Agrio](#agrio), [ácido](#acido), [dulce](#dulce), [amargo](#amargo) y [umami](#umami).
             
         - ### SCA - Specialty Coffee Association
-            
+          
             - 
             
         - ### secado
