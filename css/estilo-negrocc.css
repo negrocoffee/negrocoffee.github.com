@@ -374,6 +374,7 @@ img { max-width: 100%; }
 .b--facebook { border-color: #1896F2;}
 .b--twitter { border-color: #00B2FF;}
 .b--whatsapp { border-color: #30E357;}
+.b--azul-claro { border-color: #5FB6D9; }
 .b--transparent { border-color: transparent; }
 .b--inherit { border-color: inherit; }
 .b--initial { border-color: initial; }
@@ -1073,6 +1074,11 @@ code, .code { font-family: Consolas, monaco, monospace; }
 .bg-facebook { background-color: #1896F2;}
 .bg-twitter { background-color: #00B2FF;}
 .bg-whatsapp { background-color: #30E357;}
+.bg-azul-claro { background-color: #5FB6D9;}
+.bg-azul-oscuro { background-color: #274259;}
+.bg-azul-azul { background-color: #2A558C;}
+.bg-azul-gris { background-color: #4E94BF}
+.bg-blanco-gris { background-color: #F2F2F2}
 .bg-inherit { background-color: inherit; }
 /*
 
@@ -3128,17 +3134,18 @@ ul {
     width: 100vw;
 }
 /* ----------- TXT ------------- */
+/* TAMANOS TXT */
 .tam-texto-02 {
     font-size: 2vh;
 }
 .tam-texto-04 {
     font-size: 4vh;
 }
-.tam-texto-06 {
-    font-size: 6vh;
+.tam-letra {
+    font-size: calc(40px + (60 - 40) * (100vw - 600px) / (1600 - 600));
 }
-.tam-texto-08 {
-    font-size: 8vh;
+.tam-termino {
+    font-size: calc(32px + (40 - 32) * (100vw - 600px) / (1600 - 600));
 }
 .tam-texto-titulo {
     font-size: calc(60px + (120 - 60) * (100vw - 800px)/(1600 - 800));
@@ -3158,20 +3165,35 @@ ul {
 .vertical-id {
     writing-mode: vertical-lr;
 }
+/* ENLACES TXT */
 .enlace-texto {
 }
-.enlace-texto:hover {
-    color: #81CAFF;
-}
-a.enlace-texto {
+.enlace-texto > a {
+    color: black;
   transition-property: color, background-color, border-color;
   transition-duration: 0.5s;
   transition-timing-function: ease;
   transition-delay: 0s;
 }
+.enlace-texto > a:hover {
+    color: #81CAFF;
+}
+
+.enlace-vocabulario > li > a{
+    transition-property: text-decoration;
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}
+.enlace-vocabulario > li > a:hover {
+    text-decoration: none;
+}
 /* --FONTS -- */
 .acumin-pro {
     font-family: acumin-pro, sans-serif;
+}
+.acumin-pro-extra-condensed {
+    font-family: acumin-pro-extra-condensed, sans-serif;
 }
 .fira-mono {
     font-family: fira-mono, monospace;
@@ -3190,6 +3212,7 @@ a.enlace-texto {
 }
 .essones-headline {
     font-family: essonnes-headline, serif;
+    font-kerning: normal;
 }
 .stratos {
     font-family: stratos, serif;
@@ -3200,7 +3223,6 @@ a.enlace-texto {
 .bodoni-urw {
     font-family: bodoni-urw, serif;
 }
-
 /* COLUMNAS */
 .no-rompa {
     -webkit-column-break-inside: avoid;
@@ -3830,7 +3852,7 @@ html.coldbrew-bg {
     grid-row: 2 / 5;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: repeat(auto, 1fr);
+    grid-template-rows: auto;
     grid-gap: 0px;
 }
 .indice-vocabulario > li {
@@ -3855,10 +3877,48 @@ html.coldbrew-bg {
     transition-timing-function: ease;
     transition-delay: 0s;
 }
-@media (max-width: 1100px) {
+.grilla-letra {
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    grid-template-rows: max-content;
+    grid-gap: 1rem;
+}
+.letra {
+    grid-column: 1 / 2;
+    grid-row: 1 / 2;
+}
+.terminos {
+    grid-column: 2 / 3;
+    grid-row: 1 / 2;
+}
+.grilla-termino {
+    display: grid;
+    grid-template-columns: 1fr 2fr 2fr;
+    grid-template-rows: max-content max-content;
+    grid-gap: 0rem;
+}
+.termino {
+    grid-column: 1 / 2;
+    grid-row: 1 / 2;
+}
+.texto-termino {
+    grid-column: 2 / 3;
+    grid-row: 1 / 2;
+}
+.img-termino {
+    grid-column: 3 / 4;
+    grid-row: 1 / 2;
+}
+.relaciones-termino {
+    grid-column: 2 / 3;
+    grid-row: 2 / 3;
+}
+
+@media (max-width: 1000px) {
     .grilla-vocabulario {
         grid-template-columns: 5vw 80vw 5vw;
         grid-template-rows: 30vh max-content max-content 100vh;
+        height: auto;
     }
     .titulo-vocabulario {
         grid-column: 2 / 3;
@@ -3869,6 +3929,41 @@ html.coldbrew-bg {
         grid-row: 3 / 4;
     }
     .indice-vocabulario {
+        grid-column: 2 / 3;
+        grid-row: 4 / 5;
+    }
+    .grilla-letra {
+        grid-template-columns: 4fr 1fr;
+        grid-template-rows: max-content;
+        grid-gap: 1rem;
+    }
+    .letra {
+        grid-column: 2 / 3;
+        grid-row: 1 / 2;
+    }
+    .terminos {
+        grid-column: 1 / 3;
+        grid-row: 2 / 3;
+    }
+    .grilla-termino {
+        grid-template-columns: 1fr 5fr;
+        grid-template-rows: max-content max-content max-content max-content;
+        grid-gap: 0rem;
+    }
+    .termino {
+        grid-column: 1 / 3;
+        grid-row: 1 / 2;
+        justify-self: end;
+    }
+    .img-termino {
+        grid-column: 2 / 3;
+        grid-row: 2 / 3;
+    }
+    .texto-termino {
+        grid-column: 2 / 3;
+        grid-row: 3 / 4;
+    }
+    .relaciones-termino {
         grid-column: 2 / 3;
         grid-row: 4 / 5;
     }
