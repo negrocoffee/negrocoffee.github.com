@@ -120,8 +120,10 @@ Para comunicarnos mejor, para **encontrar relaciones** y con el fin de desarroll
             - Para el caso del café, una distribución de N7sWZiPT5 **más modal** quiere decir que más partículas tienen el mismo tamaño, comparado con otra distribución que tiene la molienda espaciada en más tamaños de partícula.
             - Por lo tanto, **más modal** implica una molienda más homogénea y la capacidad de extraer más de la molienda.
             - ver: https://www.baristahustle.com/blog/the-ek43-part-two/ [[ek43]] [[BH]]
+            
         - ### molécula
             - La forma más pequeña que un elemento o "compuesto" pueden tomar como una partícula. Moléculas son diferentes de [iones](((KDEN2V0rp))), ya que no están cargadas.
+            
         - ### molino de rodillo
             - molinos que operan con rodillos acanalados, usualmente en parejas posicionadas de forma paralela, con un espacio específico entre las cuchillas que determina el tamaño de la N7sWZiPT5. Usualmente tienen varios pares de rodillos en secuencia para mejorar la uniformidad del tamaño de las pertículas.
             - url: https://www.probatusa.com/products/industry/products/roll-grinders/
@@ -131,9 +133,13 @@ Para comunicarnos mejor, para **encontrar relaciones** y con el fin de desarroll
                 - ![](https://storage.googleapis.com/negro.coffee/cafe/industria/Screenshot%202020-05-16%20at%2016.05.57.png)
                 - ![](https://storage.googleapis.com/negro.coffee/cafe/industria/Screenshot%202020-05-16%20at%2016.10.51.png)
                 - ![](https://storage.googleapis.com/negro.coffee/cafe/industria/Screenshot%202020-05-16%20at%2016.11.11.png)
+            
         - ### molino de café 
             - híbrido
-                - 
+            
+        - ### Molienda
+        
+            - Es el café molido para una <a href='#preparacion'>preparación</a> específica y sus características. Una molienda para <a href='#espresso'>espresso</a> no es la misma que para una preparación de <a href='#prensa-francesa'>prensa francesa</a>. Por lo tanto, cuando hablamos en términos de molienda nos referimos al café molido dentro del contexto de la preparación que estamos realizando. La característica más importante para la molienda es el tamaño de las partículas de <a href='#cafe-tostado'>café tostado</a>.
     - ## N
         - ### NYSCE - New York Sugar and Coffee Exchange
             - fundada en 1882
