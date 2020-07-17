@@ -4174,7 +4174,7 @@ html.coldbrew-bg {
 @media (max-width: 800px) {
     .grilla-recetas {
         grid-template-columns: 1fr 1fr 1fr max-content;
-        grid-template-rows: max-content max-content 10vh max-content max-content max-content max-content max-content max-content max-content max-content;
+        grid-template-rows: max-content max-content 20vh max-content max-content max-content max-content max-content max-content max-content max-content;
         grid-gap: 0.5rem;
         height: 100vh;
     }
