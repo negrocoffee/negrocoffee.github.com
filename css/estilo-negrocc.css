@@ -3906,7 +3906,7 @@ html.coldbrew-bg {
 }
 .grilla-footer-vocabulario {
     display: grid;
-    grid-template-columns: 1fr max-content minmax(10vw, 20vw) max-content 1fr;
+    grid-template-columns: 1fr max-content minmax(14vw, 20vw) max-content 1fr;
     grid-template-rows: max-content max-content;
     grid-gap: 1rem;
 }
