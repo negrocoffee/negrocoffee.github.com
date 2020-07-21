@@ -22,9 +22,15 @@ Para comunicarnos mejor, para **encontrar relaciones** y con el fin de desarroll
         - ### apisonar
             - Acción de compactar la molienda al interior de una [castilla](#canastilla) utilizando un [apisonador](#apisonador). Es una de las acciones para preparar [espresso](#espresso), es muy importante, porque afecta la bebida final que se obtiene. En años recientes la [industria del café](#industria-del-cafe) ha desarrollado máquinas apisonadoras y [máquinas de espresso](#maquina-de-espresso) que sin ser [superautomáticas](#superautomatica) también apisonan. Es una de las acciones que más afecta la salud física de los [baristas](#barista) por la repetición contínua de la acción y en muchos casos por la mala ergonomía de la estación de trabajo. 
     - ## B
+        - ### Barista
+        
+            - Son el corazón de la tienda de café. Preparan y sirven las [bebidas](#bebida-de-cafe) en las [tiendas de café](#tienda-de-cafe). Los baristas reciben de la [tostadora](#tostadora) el [café tostado](#cafe-tostado) y desarrollan la [receta](#receta-de-cafe) para producir la mejor bebida. 
+        
         - ### beneficio
+        
         - ### BTC - bean to cup
             - Tecnología que muele, distribuye y apisona  para pareparar una bebida. Usualmente realizada en una máquina "superautomática". 
+        
     - ## C
         - ### café verde
             - 
