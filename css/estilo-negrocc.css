@@ -4298,16 +4298,16 @@ html.coldbrew-bg {
 @media (max-width: 800px) {
     .grilla-enlaces-ig {
         grid-template-columns: max-content 1fr max-content;
-        grid-template-rows: max-content;
+        grid-template-rows: max-content 20vh max-content max-content max-content;
         grid-gap: 0.5rem;
     }
     .titulo-enlaces {
         grid-column: 1 / 4;
-        grid-row: 2 / 3;
+        grid-row: 3 / 4;
     }
     .imgs-enlaces {
         grid-column: 1 / 4;
-        grid-row: 3 / 4;
+        grid-row: 4 / 5;
         display: grid;
         grid-template-columns: repeat(3, minmax(20vw, 30vw));
         grid-template-rows: auto;
@@ -4327,7 +4327,7 @@ html.coldbrew-bg {
     }
     .botones-sociales-enlaces {
         grid-column: 1 / 4;
-        grid-row: 4 / 5;
+        grid-row: 5 / 6;
         align-self: start;
         justify-self: start;
     }

@@ -8,49 +8,70 @@ Para comunicarnos mejor, para **encontrar relaciones** y con el fin de desarroll
 
 - Abecedario
     - ## A
+        - Ácido
+            
+            - Es uno de los [sabores básicos](#sabor-basico). Es muy importante en el café, porque una [bebida de café](#bebida-de-cafe) con buena acidez es muy difícil de desarrollar. La asociación más común que tenemos es la de una solución de ácido cítrico. Un alimento es ácido cuando lo asociamos con el sabor del limón, especialmente con las sensaciones físicas que nos genera en la boca. Hay mucho alimentos que son predominantemente ácidos, como: el limón, la naranja, la mandarina. 
+            
+        - Aeropress
+        
+            - Es un [método de preparación]([[Métodos de Preparación]]) inventado en 2005 por [Alan Adler](https://aeropress.com/about/), el presidente de [Aerobie](https://aerobie.com/) en Estados Unidos. El aparato une la capacidad de preparar café con infusión y con presión. Es como mezclar una prensa francesa y una moka. En la industria del café se ha convertido en un movimiento y ahora tenemos campeonato mundial de **Aeropress**.
+        
         - ### Agrio
+            
             - [[Sabor Básico]]
             - [Sabor básico](#sabor-basico) presente en una bebida. Se produce en los primeros momentos de [extracción](#extraccion) y con temperaturas altas. 
             
         - ### ajuste de molienda
             - Posición del selector o collar, que estipula la separación entre las cuchillas del molino.
             
+        - ### Amargo
+        
+            - Es el [sabor básico](#sabor-basico) con el que asociamos al café. En **Colombia** también asociamos culturalmente el sabor de la **cerveza** con el amargo. Las [bebidas de café](#bebida-de-cafe) son predominanemente amargas, porque contienen diferentes compuestos químicos cuyo sabor es amargo, uno de estos es la [cafeína](#cafeina).
+        
             ### Apisonador
-            
+        
             Aparato con el que se compacta la [molienda](#molienda) durante la [preparación](#preparacion) de un [espresso](#espresso). Usualmente tienen una superficie plana y bordes rectos, sin embargo también pueden tener bordes biselados y una superficie convexa. Nosotros recomendamos los apisonadores planos y con bordes rectos.
-            
+        
         - ### apisonar
             - Acción de compactar la molienda al interior de una [castilla](#canastilla) utilizando un [apisonador](#apisonador). Es una de las acciones para preparar [espresso](#espresso), es muy importante, porque afecta la bebida final que se obtiene. En años recientes la [industria del café](#industria-del-cafe) ha desarrollado máquinas apisonadoras y [máquinas de espresso](#maquina-de-espresso) que sin ser [superautomáticas](#superautomatica) también apisonan. Es una de las acciones que más afecta la salud física de los [baristas](#barista) por la repetición contínua de la acción y en muchos casos por la mala ergonomía de la estación de trabajo. 
+        
     - ## B
         - ### Barista
-        
-            - Son el corazón de la tienda de café. Preparan y sirven las [bebidas](#bebida-de-cafe) en las [tiendas de café](#tienda-de-cafe). Los baristas reciben de la [tostadora](#tostadora) el [café tostado](#cafe-tostado) y desarrollan la [receta](#receta-de-cafe) para producir la mejor bebida. 
-        
+
+            Son el corazón de la tienda de café. Preparan y sirven las [bebidas](#bebida-de-cafe) en las [tiendas de café](#tienda-de-cafe). Los baristas reciben de la [tostadora](#tostadora) el [café tostado](#cafe-tostado) y desarrollan la [receta](#receta-de-cafe) para producir la mejor bebida.
+
+            Son indispensables en el negocio del café y contribuyen enormemente a la cultura cafetera. Su influencia en la industria ha crecido exponencialmente en los últimos 10 años, desde que campeones mundiales de barismo han pasado a ser la imagen de marcas globales y su trabajo ya no solo es la preparación, también hacen parte del control de calidad.
+
         - ### beneficio
-        
+
+            - En **Colombia** la etapa de **beneficio** es un proceso que se realiza en la [finca caficultora](#finca-caficultora) después de recolectar los [frutos de café](#fruto-de-cafe). 
+
         - ### BTC - bean to cup
             - Tecnología que muele, distribuye y apisona  para pareparar una bebida. Usualmente realizada en una máquina "superautomática". 
-        
+
     - ## C
         - ### café verde
-            - 
+            
+            ### Cafeína
+            
+            ​	
             
         - [[Ciencia Sensorial]]
         
         - ### muelas
             - Discos de los molinos que muelen el grano de café tostado.
-            
+        
         - ### canalización
             - Ocurre cuando la mayoría de la cantidad del agua durante la preparación de la [[café/preparación/bebida de café]] pasa por un área localizada de la [[café/preparación/cama de café]].
             - una irregularidad crítica durante la extracción, donde una gran cantidad del [[café/preparación/agua de preparación]] atraviesa un área localizada.
-            
+        
         - ### Canastilla
         
             - Donde se deposita la [molienda](#molienda) de café para ser comprimida o [apisonada](#apisonar). Es independiente del [portafiltros](#portafiltro) y es el único [filtro](#filtro) que tiene la preparación de [espresso](#espresso). Hay de fondo sencillo y doble, en una [tienda de especialidad](#tienda-de-especialidad) se utilizan canastillas de fondo sencillo y tamaño doble, mientras que en [máquinas de espresso](#maquina-de-espresso) para el hogar se utilizan canastillas sencillas y dobles y usualmente de fondo doble. 
         
         - ### cápsulas
             - sistema de cápsulas tipo K-cups o Nespresso, que utilizan envase cerrado, para el café molido, para una preparar una sola taza. 
-            
+        
         - ### canastilla
         
         - {{embed: ((C3gAJ8eA8))}}
@@ -62,13 +83,20 @@ Para comunicarnos mejor, para **encontrar relaciones** y con el fin de desarroll
         - ### cosecha
         
         - ### catación
+        
     - ## D
         - ### [[Débil]]
             - [[descriptor]] de [[intensidad]]
             - Estado de #intensidad de una bebida de café. Describe una bebida con poca intensidad. Puede ser producto de 
             - traducción:: weak
+            
         - ### Difusión
             - el movimiento de [moléculas](((LSpq7pyIb))) de una región de alta "concentración" a otra de baja concentración  -- la propagación equilibrada de una "sustancia".
+            
+        - ### Dulce
+        
+            - Es un [sabor básico](#sabor-basico) que buscamos mucho en el desarrollo de bebidas de café. Usualmente lo podemos asociar con el **azúcar de cocina**, en el café tenemos la posibilidad de asociarlo con el sabor de diferentes frutas. En la preparación de una [bebida de café](#bedida-de-cafe) buscamos siempre maximizar el dulzor que percibimos.
+        
     - ## E
         - ### EBF
         - ### endospermo
@@ -93,14 +121,18 @@ Para comunicarnos mejor, para **encontrar relaciones** y con el fin de desarroll
             - ### [[café/preparación/extracción]]
                 - 
                 - enlaces:
+        
     - ## F
         - ### flavonoide
             - https://es.wikipedia.org/wiki/Flavonoide
+        
     - ## G
         - ### gráfica de control de preparación
             - 
         - ### grano de café
+        
     - ## H
+
     - ## I
         - ### ICE - Intercontinental exchange
             - https://www.theice.com/products/15/Coffee-C-Futures
@@ -113,13 +145,17 @@ Para comunicarnos mejor, para **encontrar relaciones** y con el fin de desarroll
         - ### ion
             - 
             - url-wikipedia:https://es.wikipedia.org/wiki/Ion
+        
     - ## J
+
     - ## K
+
     - ## L
         - ### lodo de café
             - mezcla - tipo pasta - de sólidos y líquido
         - ### lungo
             - Una [[café/preparación/bebida de café]] basada en "espresso" preparada como un trago "largo"; el "rendimiento" es típicamente tres veces la [[café/preparación/dosis]] . Usualmente tiene un rango de "EBF" de 27 a 40%. 
+        
     - ## M
         - ### distribución modal del tramaño de molienda
             - La moda es el valor que más veces se repite en una muestra. Entre más modal sea la distribución, más valores van a encontrarse en la moda. 
@@ -146,15 +182,18 @@ Para comunicarnos mejor, para **encontrar relaciones** y con el fin de desarroll
         - ### Molienda
         
             - Es el café molido para una <a href='#preparacion'>preparación</a> específica y sus características. Una molienda para <a href='#espresso'>espresso</a> no es la misma que para una preparación de <a href='#prensa-francesa'>prensa francesa</a>. Por lo tanto, cuando hablamos en términos de molienda nos referimos al café molido dentro del contexto de la preparación que estamos realizando. La característica más importante para la molienda es el tamaño de las partículas de <a href='#cafe-tostado'>café tostado</a>.
+        
     - ## N
         - ### NYSCE - New York Sugar and Coffee Exchange
             - fundada en 1882
             - url-wikipedia: https://en.wikipedia.org/wiki/Coffee,_Sugar_and_Cocoa_Exchange
             - 
+        
     - ## O
         - ### onza - medida/volumen/onza
             - {{embed: ((AMPYXW6sv))}}
             - {{embed: ((AlbYNcL9O))}}
+        
     - ## P
         - ### parámetros de preparación
             - tiempo de contacto
@@ -173,9 +212,11 @@ Para comunicarnos mejor, para **encontrar relaciones** y con el fin de desarroll
             - 
         - ### purgar
             - Evacuar café molido del interior del molino utilizando una poca cantidad del nuevo grano que se quiere moler.
+        
     - ## Q
         - ### quaker
             - grano inmaduro que ha sido tostado. Usualmente tiene un color menos oscuro que el resto del lote tostado.
+        
     - ## R
         - ### refractómetro
             - 
@@ -186,6 +227,7 @@ Para comunicarnos mejor, para **encontrar relaciones** y con el fin de desarroll
             - Partículas de molienda que están varias desviaciones estándar más grandes que la media. 
         - ### romper la costra
             - El método de agitación utilizado en la "catación" para asegurar que toda la N7sWZiPT5 se sumerja bajo la superficie del "lodo de café" del [[café/preparación/agua de preparación]] y la molienda.
+        
     - ## S
         - ### Sabor Básico
           
@@ -193,8 +235,10 @@ Para comunicarnos mejor, para **encontrar relaciones** y con el fin de desarroll
             
         - ### SCA - Specialty Coffee Association
           
-            - 
-            
+        - ### Salado
+        
+            - Es el [sabor básico](#sabor-basico) que asociamos con la sal de mesa, cloruro de sodio. En el café no es un buen indicador, o buscamos bebidas de café que tengan sabores salados. Usualmente resecan la boca y queremos todo lo contrario, bebidas que nos refersquen y que dejen su bue sabor durante mucho tiempo en la boca.
+        
         - ### secado
         
         - ### solución
@@ -221,22 +265,29 @@ Para comunicarnos mejor, para **encontrar relaciones** y con el fin de desarroll
             
         - ### sustancia
             - 
+        
     - ## T
         - ### TDS
         - ### Temperatura de preparación
             - Es la temperatura del agua que se utiliza durante la preparación de una bebida de café.
         - ### trago
             - {{embed: ((k8GL9cvxN))}}
+        
     - ## U
         - ### #uniformidad
             - otros usos: #uniforme
             - definición:
             - enlaces
+        
     - ## V
         - ### vacíos innefectivos
             - Son áreas de la [[café/preparación/cama de café]] que no están participando de la "extracción ". El [[café/preparación/flujo de agua]] no pasa por éstas áreas. 
         - ### VST COffee Tools app
+        
     - ## W
+
     - ## X
+
     - ## Y
+
     - ## Z
