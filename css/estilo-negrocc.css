@@ -3484,7 +3484,7 @@ html.coldbrew-bg {
     .grilla-compracafe {
         display: grid;
         grid-template-columns: 1fr minmax(24vw, 30vw) 1fr;
-        grid-template-rows: max-content 20vh max-content 20vh 20vh 20vh max-content max-content max-content;
+        grid-template-rows: max-content 14vh max-content 20vh 20vh 20vh max-content max-content max-content;
         grid-gap: 0.5rem;
     }
     .titulos-compracafe {
