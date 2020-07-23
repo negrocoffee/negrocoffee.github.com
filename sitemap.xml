@@ -1,108 +1,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    
+
     <url>
-        <loc>http://negro.coffee/cold-brew/</loc>
-        <lastmod>2019-10-31T09:00:00+00:00</lastmod>
+        <loc>https://www.negro.coffee/cold-brew/cold-brew.html</loc>
+        <lastmod>2020-06-01T09:00:00+00:00</lastmod>
     </url>
-    
+
     <url>
-        <loc>http://negro.coffee/comprar-cafe/</loc>
-        <lastmod>2019-10-30T09:00:00+00:00</lastmod>
+        <loc>https://www.negro.coffee/comprar-cafe/comprar-cafe.html</loc>
+        <lastmod>2020-06-01T09:00:00+00:00</lastmod>
     </url>
-    
+
     <url>
         <loc>http://negro.coffee/</loc>
-        <lastmod>2019-10-30T09:00:00+00:00</lastmod>
+        <lastmod>2020-06-01T09:00:00+00:00</lastmod>
     </url>
-    
     <url>
-        <loc>http://negro.coffee/privacidad/politicas-de-datos/</loc>
-        <lastmod>2019-10-30T09:00:00+00:00</lastmod>
+        <loc>http://negro.coffee/nosotros/nosotros.html</loc>
+        <lastmod>2020-06-01T00:00:00+00:00</lastmod>
     </url>
-    
+
     <url>
-        <loc>http://negro.coffee/privacidad/</loc>
-        <lastmod>2019-10-30T09:00:00+00:00</lastmod>
+        <loc>http://negro.coffee/blog/deja-el-afan.html</loc>
+        <lastmod>2020-06-01T00:00:00+00:00</lastmod>
     </url>
-    
-    <url>
-        <loc>http://negro.coffee/nosotros/</loc>
-        <lastmod>2019-10-30T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>http://negro.coffee/blog/10-aspectos-para-tomar-mejor-cafe/</loc>
-        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>http://negro.coffee/tags/almacenamiento/</loc>
-        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>http://negro.coffee/privacidad/privacidad/</loc>
-        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>http://negro.coffee/tags/caf%C3%A9-fresco/</loc>
-        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>http://negro.coffee/tags/caf%C3%A9-independiente/</loc>
-        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>http://negro.coffee/tags/caf%C3%A9-local/</loc>
-        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>http://negro.coffee/categories/</loc>
-        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>http://negro.coffee/blog/10-aspectos-para-tomar-mejor-cafe/compra-cafe-fresco/</loc>
-        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>http://negro.coffee/blog/10-aspectos-para-tomar-mejor-cafe/compra-local-e-independiente/</loc>
-        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-    <url>
-        <loc>http://negro.coffee/blog/10-aspectos-para-tomar-mejor-cafe/deja-el-afan/</loc>
-        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+
     <url>
         <loc>http://negro.coffee/blog/</loc>
-        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
+        <lastmod>2020-06-01T00:00:00+00:00</lastmod>
     </url>
-    
+
     <url>
-        <loc>http://negro.coffee/pruebas/</loc>
-        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
+        <loc>http://negro.coffee/blog/compra-cafe-local.html</loc>
+        <lastmod>2020-06-01T00:00:00+00:00</lastmod>
     </url>
-    
+
     <url>
-        <loc>http://negro.coffee/blog/recetas/</loc>
-        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
+        <loc>http://negro.coffee/blog/recetas.html</loc>
+        <lastmod>2020-06-01T00:00:00+00:00</lastmod>
     </url>
-    
+
     <url>
-        <loc>http://negro.coffee/tags/</loc>
-        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
+        <loc>http://negro.coffee/blog/recetas/negro-negro.html</loc>
+        <lastmod>2020-06-01T00:00:00+00:00</lastmod>
     </url>
-    
+
     <url>
-        <loc>http://negro.coffee/blog/aprende/vocabulario-cafetero/</loc>
-        <lastmod>0001-01-01T00:00:00+00:00</lastmod>
+        <loc>http://negro.coffee/blog/recetas/negro-latte.html</loc>
+        <lastmod>2020-06-01T00:00:00+00:00</lastmod>
     </url>
-    
+
+    <url>
+        <loc>http://negro.coffee/blog/recetas/maravilla-negra.html</loc>
+        <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>http://negro.coffee/blog/recetas/cubos-de-cold-brew.html</loc>
+        <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>http://negro.coffee/blog/recetas/granizado-de-cold-brew.html</loc>
+        <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+    </url>
+
+    <url>
+        <loc>http://negro.coffee/blog/vocabulario/vocabulario.html</loc>
+        <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+    </url>
 </urlset>
