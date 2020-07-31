@@ -4344,3 +4344,97 @@ html.coldbrew-bg {
         justify-self: start;
     }
 }
+
+/* FORMAS AIRTABLE */
+.grilla-formas {
+    display: grid;
+    grid-template-columns: max-content max-content max-content max-content max-content max-content;
+    grid-template-rows: max-content max-content max-content;
+    grid-gap: 1rem;
+}
+.forma-pedido {
+    grid-column: 1 / 4;
+    grid-row: 1 / 2;
+}
+.forma-cliente {
+    grid-column: 4 / 7;
+    grid-row: 1 / 2;
+}
+.logo-sencillo-formas {
+    grid-column: 3 / 5;
+    grid-row: 2 / 3;
+    align-self: start;
+}
+.nav-blog-formas {
+    grid-column: 2 / 3;
+    grid-row: 2 / 3;
+}
+.nav-coldbrew-formas {
+    grid-column: 5 / 6;
+    grid-row: 2 / 3;
+}
+.botones-sociales-formas {
+    grid-column: 2 / 5;
+    grid-row: 3 / 4;
+}
+@media (max-width: 1000px) {
+    .grid-formas {
+        grid-template-columns: max-content max-content max-content;
+        grid-templae-rows: max-content max-content max-content max-content;
+        grid-gap:0.5rem;
+    }
+    .forma-pedido {
+        grid-column: 1 / 4;
+        grid-row: 1 / 2;
+    }
+    .forma-cliente {
+        grid-column: 1 / 4;
+        grid-row: 2 / 3;
+    }
+    .logo-sencillo-formas {
+        grid-column: 2 / 3;
+        grid-row: 3 / 4;
+        align-self: start;
+    }
+    .nav-blog-formas {
+        grid-column: 1 / 2;
+        grid-row: 3 / 4;
+    }
+    .nav-coldbrew-formas {
+        grid-column: 3 / 4;
+        grid-row: 3 / 4;
+    }
+    .botones-sociales-formas {
+        grid-column: 1 / 4;
+        grid-row: 4 / 5;
+    }
+}
+/* DOMICILIO */
+.grilla-domicilio {
+    display: grid;
+    grid-template-columns: max-content minmax(300px, 500px) max-content;
+    grid-template-rows: 50vh max-content max-content;
+    grid-gap: 1rem;
+}
+.zona-cobertura {
+    grid-column: 2 / 3;
+    grid-row: 1 / 3;
+}
+.logo-sencillo-domicilio {
+    grid-column: 3 / 4;
+    grid-row: 2 / 3;
+    align-self: end;
+}
+.nav-coldbrew-domicilio {
+    grid-column: 3 / 4;
+    grid-row: 2 / 3;
+}
+.nav-blog-domicilio {
+    grid-column: 1 / 2;
+    grid-row: 2 / 3;
+    align-self: end;
+}
+.botones-sociales-domicilio {
+    grid-column: 1 / 4;
+    grid-row: 3 / 4;
+}
