@@ -651,21 +651,6 @@ img { max-width: 100%; }
 .serif { font-family: georgia, times, serif; }
 .system-sans-serif { font-family: sans-serif; }
 .system-serif { font-family: serif; }
-/* Monospaced Typefaces (for code) */
-/* From http://cssfontstack.com */
-code, .code { font-family: Consolas, monaco, monospace; }
-.courier { font-family: 'Courier Next', courier, monospace; }
-/* Sans-Serif Typefaces */
-.helvetica { font-family: 'helvetica neue', helvetica, sans-serif; }
-.avenir { font-family: 'avenir next', avenir, sans-serif; }
-/* Serif Typefaces */
-.athelas { font-family: athelas, georgia, serif; }
-.georgia { font-family: georgia, serif; }
-.times { font-family: times, serif; }
-.bodoni { font-family: "Bodoni MT", serif; }
-.calisto { font-family: "Calisto MT", serif; }
-.garamond { font-family: garamond, serif; }
-.baskerville { font-family: baskerville, serif; }
 /*
    FONT STYLE
    Docs: http://tachyons.io/docs/typography/font-style/
@@ -4437,4 +4422,84 @@ html.coldbrew-bg {
 .botones-sociales-domicilio {
     grid-column: 1 / 4;
     grid-row: 3 / 4;
+}
+
+.grilla-nutricional {
+    display: grid;
+    grid-template-columns: max-content 1fr 1fr 1fr max-content;
+    grid-template-rows: max-content 50vh max-content max-content;
+    grid-gap: 1rem;
+}
+.titulo-nutricional {
+    grid-column: 2 / 5;
+    grid-row: 1 / 2;
+}
+.img-nutricional {
+    grid-column: 2 / 3;
+    grid-row: 2 / 3;
+}
+.info-nutricional {
+    grid-column: 3 / 4;
+    grid-row: 2 / 4;
+}
+.texto-nutricional {
+    grid-column: 4 / 5;
+    grid-row: 2 / 3;
+}
+.logo-sencillo-nutricional {
+    grid-column: 5 / 6;
+    grid-row: 2 / 3;
+    align-self: end;
+}
+.nav-coldbrew-nutricional {
+    grid-column: 5 / 6;
+    grid-row: 3 / 4;
+}
+.nav-blog-nutricional {
+    grid-column: 1 / 2;
+    grid-row: 3 / 4;
+}
+.botones-sociales-nutricional {
+    grid-column: 2 / 6;
+    grid-row: 4 / 5;
+}
+@media (max-width: 1000px) {
+    .grilla-nutricional {
+        grid-template-columns: max-content 1fr max-content;
+        grid-template-rows: max-content 20vh max-content max-content max-content max-content max-content;
+        grid-gap: 0.5rem;
+    }
+    .titulo-nutricional {
+        grid-column: 1 / 4;
+        grid-row: 1 / 2;
+    }
+    .img-nutricional {
+        grid-column: 1 / 4;
+        grid-row: 4 / 5;
+    }
+    .info-nutricional {
+        grid-column: 1 / 4;
+        grid-row: 3 / 4;
+    }
+    .texto-nutricional {
+        grid-column: 1 / 4;
+        grid-row: 5 / 6;
+    }
+    .logo-sencillo-nutricional {
+        grid-column: 2 / 3;
+        grid-row: 6 / 7;
+        align-self: start;
+    }
+    .nav-coldbrew-nutricional {
+        grid-column: 3 / 4;
+        grid-row: 6 / 7;
+    }
+    .nav-blog-nutricional {
+        grid-column: 1 / 2;
+        grid-row: 6 / 7;
+    }
+    .botones-sociales-nutricional {
+        grid-column: 1 / 4;
+        grid-row: 7 / 8;
+    }
 }
